@@ -13,10 +13,8 @@
 
 ### 🛠 My Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&hide=javascript,css,html,slash&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&hide=javascript,css,html,slash,shell&theme=tokyonight&count_private=true)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&hide=javascript,css,html,slash&theme=tokyonight)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=litonbarman)]
