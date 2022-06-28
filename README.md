@@ -13,9 +13,12 @@
 
 ### 🛠 My Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&hide=javascript,css,html,slash,shell&theme=tokyonight&count_private=true)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&hide=css,html,slash,shell&theme=tokyonight&count_private=true)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=litonbarman&&show_icons=true&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api?username=litonbarman&hide=prs,issues,contribs&show_icons=true&theme=dark)]
 
