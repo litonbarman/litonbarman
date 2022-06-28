@@ -11,5 +11,5 @@
 - 😄 Pronouns: Litfit, Lighton
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&hide=javascript,css,html&theme=tokyonight)
 
