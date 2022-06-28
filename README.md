@@ -2,7 +2,7 @@
 
 
 
-### Welcome to my profile ! I'm currently a student.
+### Welcome to my profile ! I'm currently a student, persuing BTech in Computer Science & Engineering From NITAP.
 ### But ! you can call me professional software engineer 😄
 
 
