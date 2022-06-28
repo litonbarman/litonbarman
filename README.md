@@ -30,5 +30,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&hide=css,html,slash,shell&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&langs_count=8&hide_border=true&theme=tokyonight&count_private=true)
 
