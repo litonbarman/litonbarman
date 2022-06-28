@@ -16,10 +16,7 @@
 ### 🛠 My Languages and Tools
 
 ![](https://img.shields.io/badge/<OS>-<Linux, Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Editor>-<Vim, IntelliJ>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Languages>-<C/C++, PHP, JAVASCRIPT, JAVA, NASM>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Compilers>-<GCC/G++, JAVAC>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tools>-<GIT, MAKE>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&hide=css,html,slash,shell&theme=tokyonight&count_private=true)
