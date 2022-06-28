@@ -32,10 +32,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litonbarman&hide=css,html,slash,shell&theme=tokyonight&count_private=true)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=litonbarman&hide=prs,issues,contribs&show_icons=true&theme=dark)]
-
-
-
-![](https://activity-graph.herokuapp.com/graph?username=litonbarman&theme=dracula)]
