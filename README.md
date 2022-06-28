@@ -17,5 +17,5 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=litonbarman)]
+![Top Langs](https://github-readme-stats.vercel.app/api?username=litonbarman&&show_icons=true&theme=dark)]
 
