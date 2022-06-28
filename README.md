@@ -1,4 +1,4 @@
-# Hi there, I'm Liton Barman ! ![This is an image](https://github.com/GraceWXT/GraceWXT/blob/main/doc/paw-waving-cropped.webp)
+# Hi there, I'm Liton Barman ! ![This is an image](https://github.com/GraceWXT/GraceWXT/blob/main/doc/paw-waving-cropped.webp | width=100)
 
 <!--
 ![Header]()
