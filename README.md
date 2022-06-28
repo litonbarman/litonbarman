@@ -15,12 +15,17 @@
 
 ### 🛠 My Languages and Tools
 
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<linux>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<windows>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/<Editor>-<Vim>-informational?style=flat&logo=<vim>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Editor>-<IntelliJ>-informational?style=flat&logo=<intellij>&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/OS-Linux-informational?style=flatcolor=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flatcolor=2bbc8a)
+![](https://img.shields.io/badge/Language-C-informational?style=flatcolor=2bbc8a)
+![](https://img.shields.io/badge/Language-C++-informational?style=flatcolor=2bbc8a)
+![](https://img.shields.io/badge/Language-PHP-informational?style=flatcolor=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flatcolor=2bbc8a)
+![](https://img.shields.io/badge/Language-NasmAssembly-informational?style=flatcolor=2bbc8a)
+![](https://img.shields.io/badge/Tool-Make-informational?style=flatcolor=2bbc8a)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flatcolor=2bbc8a)
+![](https://img.shields.io/badge/Compiler-Gcc-informational?style=flatcolor=2bbc8a)
+![](https://img.shields.io/badge/Compiler-G++-informational?style=flatcolor=2bbc8a)
 
 
 
